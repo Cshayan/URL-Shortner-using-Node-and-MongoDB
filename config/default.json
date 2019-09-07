@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://CShayan:1234@login-lhbsq.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI": "Your own MongoDB Atlas URI",
     "baseURL": "http://localhost:5000"
 }
