@@ -1,0 +1,41 @@
+<div class="row">
+    <div class="col-md-8 m-auto">
+        <h1>Create short and powerful links</h1>
+    </div>
+</div>
+
+{{!-- Form --}}
+<div class="row">
+    <div class="col-md-8">
+        <form action="#" method="POST" id="form" class="mt-2 py-5 p-5">
+            <div class="form-group input-container">
+                <i class="fa fa-link"></i>
+                <input type="text" id="longurl" class="form-control" placeholder="Enter url to shorten" />
+            </div>
+            <input type="submit" class="btn btn-info" value="Shorten your link">
+        </form>
+    </div>
+</div>
+{{!-- Ends here --}}
+
+<div class="text-center loader">
+    <p style="font-size: 32px; letter-spacing: 0.1rem; color: #fff"><strong>Loading...</strong></p>
+</div>
+
+{{!-- Error message --}}
+<div class="alert alert-danger alert-dismissible text-center">
+    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+    <strong>Error!</strong> <span id="error"></span>
+</div>
+{{!-- Ends here --}}
+
+{{!-- Valid Short Url --}}
+<div class="card text-center">
+    <div class="card-body">
+        <span style="font-size: 18px; font-weight: bold; letter-spacing: 0.1rem;"> Visit : - </span>
+        <p id="shorturl"></p>
+    </div>
+</div>
+{{!-- Ends here --}}
+
+<script src="../js/app.js"></script>
