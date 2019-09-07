@@ -4,10 +4,10 @@ Create short and powerful links
 
 [![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)](https://www.latex-project.org/)
 [![Made with CSS !](https://img.shields.io/badge/Made%20with-SCSS-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![made-with-NodeJS](https://img.shields.io/badge/Made%20with-JS-1f425f.svg)](https://www.latex-project.org/)
-[![Made with ExpressJS !](https://img.shields.io/badge/Made%20with-SCSS-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![made-with-Mongoose](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)](https://www.latex-project.org/)
-[![made-with-MongoDB Atlas](https://img.shields.io/badge/Made%20with-JS-1f425f.svg)](https://www.latex-project.org/)
+[![made-with-NodeJS](https://img.shields.io/badge/Made%20with-NodeJS-1f425f.svg)](https://www.latex-project.org/)
+[![Made with ExpressJS !](https://img.shields.io/badge/Made%20with-ExpressJS-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![made-with-Mongoose](https://img.shields.io/badge/Made%20with-Mongoose-1f425f.svg)](https://www.latex-project.org/)
+[![made-with-MongoDB Atlas](https://img.shields.io/badge/Made%20with-MongoDB Atlas-1f425f.svg)](https://www.latex-project.org/)
 
 ![Alt text](public/img/ss.png "Title")
 
